@@ -1,0 +1,56 @@
+.landscape {
+    width: 30%;
+    height: 15%;
+}
+
+.portrait {
+    width: 20%;
+    height: 10%
+}
+
+.pictures {
+    margin-left: 12%;
+}
+
+.attractions {
+    margin: 25px 100px 25px 100px;
+}
+
+img {
+    image-orientation: from-image;
+    border-radius: 20px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+ }
+
+ h1 {
+     font-family: Indie Flower;
+     text-align: center;
+     padding: 10px;
+ }
+
+ h2 {
+    font-family: 'Pangolin', cursive;
+    margin-left: 75px;
+ }
+
+p {
+    font-family: Coming Soon;
+    font-size: 15px;
+    margin: 25px 100px 50px 100px;
+}
+
+body {
+    background-color: #ffffcc;
+}
+
+ul.a {
+    margin: 25px 100px 25px 100px;
+    list-style-position: inside;
+}
+
+li {
+    font-family: Coming Soon;
+    font-size: 15px;
+    list-style-type: square;
+}
